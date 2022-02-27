@@ -1,0 +1,62 @@
+body {
+    width: 80%;
+    
+    margin: 0 auto;
+    background-color: white;
+  }
+    
+  .header {
+    
+    position: relative;
+    top: 50px;
+  }
+    
+  h1 {
+    font-weight: bold;
+    font-style: normal;
+    font-family: "Times New Roman";
+    font-size: 72px;
+    color: orange;
+    text-align: center;
+  }
+    
+  .container-padding50 {
+    padding: 80px 0px 0px 30px;
+  }
+    
+  .container-textinput {
+    width: 70%;
+    display: inline-block;
+    padding: 16px;
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+  }
+    
+  .container-button {
+    width: 20%;
+    display: inline-block;
+    padding: 16px;
+    background-color: royalblue;
+    color: white;
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    border: 2px solid white;
+    border-radius: 10px;
+  }
+    
+  .container-image {
+    width: 30%;
+    display: block;
+    float: left;
+    margin-right: 3%;
+  }
+
+  
+
+.divGiph{
+  display: block;
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 33.33%;
+  
+  }
